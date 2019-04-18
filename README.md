@@ -39,3 +39,7 @@ You need to set up your wifi connection :
 If you want to deploy it with to your own cloud, you need to add the credentials of Ubidots : 
 
 ![alt text](https://github.com/manuelmederos95/GarbageAlert/blob/master/images/Annotation%202019-04-18%20164616.jpg)
+
+Web app : 
+
+The cleaning personal can have the list of the filled garbage bins in the web page with the name of the garbage bin.  
