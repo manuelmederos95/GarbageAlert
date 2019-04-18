@@ -35,4 +35,8 @@ The arduino card wil create a Wifi connection. Than it the signal produced by th
 You need to set up your wifi connection : 
 
 
+If you want to deploy it with to your own cloud, you need to add the credentials of Ubidots : 
+
+
+
 
