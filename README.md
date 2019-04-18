@@ -30,5 +30,9 @@ Components
 
 How it Works ?
 
-The arduino card wil create a Wifi connection. Than it the signal produced by the laser is not captured during a defined time an alert will be send to the ubidot cloud and from the cloud to the web application and notifications by SMS.
+The arduino card wil create a Wifi connection. Than it the signal produced by the laser is not captured during a defined time an alert will be send to the ubidot cloud and from the cloud to the web application and notifications by SMS. 
+
+You need to set up your wifi connection : 
+
+
 
