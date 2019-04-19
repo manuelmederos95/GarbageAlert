@@ -45,6 +45,6 @@ If you want to deploy it with to your own cloud, you need to add the credentials
 #define idPoubelle "5cb73e2c1d847228b8ab8ac3" //Garbage id
 ```
 
-**Web app : **
+**Web app :**
 
 The cleaning personal can have the list of the filled garbage bins in the web page with the name of the garbage bin.  
