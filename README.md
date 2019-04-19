@@ -34,20 +34,21 @@ The arduino card will create a Wifi connection. Than it the signal produced by t
 
 You need to set up your wifi connection : 
 ```
-#define WIFISSID "xxxx" // Put here your Wi-Fi SSID
-#define PASSWORD "xxxxxxxx" // Put here your Wi-Fi password
+#define WIFISSID "YOUR-SSID" // Put here your Wi-Fi SSID
+#define PASSWORD "YOUR-PASSWORD" // Put here your Wi-Fi password
 ```
 
 If you want to deploy it with to your own cloud, you need to add the credentials of Ubidots : 
 
 ```
-#define TOKEN  "BBFF-EOWLPFC2CqXVz6olPpcMMN1VTydEqU"  // Put here your Ubidots TOKEN
-#define idPoubelle "5cb73e2c1d847228b8ab8ac3" //Garbage id
+#define TOKEN  "YOUR-TOKEN"  // Put here your Ubidots TOKEN
+#define idPoubelle "YOUR-VARIABLE-ID" //Garbage id
 ```
 
 **Web app :**
 
 The cleaning personal can have the list of the filled garbage bins in the web page with the name of the garbage bin.  
+
 
 
 **Problems encountered :**
