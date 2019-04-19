@@ -13,7 +13,8 @@ The project contains a web application to survey the state of bins
 **Components**
 
 1. Arduino Card ESP8266
-![alt text](https://leetechbd.com/wp-content/uploads/2018/01/WeMos-D1-Mini-V2-NodeMcu.jpg =100*20)
+<img src="https://leetechbd.com/wp-content/uploads/2018/01/WeMos-D1-Mini-V2-NodeMcu.jpg" alt="drawing" width="100"/>
+
 
 2. Photodiode
 ![alt text](https://media.digikey.com/photos/Sharp%20Photos/BS120,520.jpg)
