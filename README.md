@@ -19,13 +19,13 @@ The project contains a web application to survey the state of bins
 <img src="https://media.digikey.com/photos/Sharp%20Photos/BS120,520.jpg" alt="drawing" width="500"/>
 
 3. LED lights
-![alt text](https://www.kitronik.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/5/3550_large_white_5mm_mega_bright_led.jpg)
+<img src="https://www.kitronik.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/5/3550_large_white_5mm_mega_bright_led.jpg" alt="drawing" width="500"/>
 
 4. Laser projector 
-![alt text](https://leeselectronic.com/26569-home_default/laser-pointer-small-3v-18ma-add-22-ohm-25ma.jpg)
+<img src="https://leeselectronic.com/26569-home_default/laser-pointer-small-3v-18ma-add-22-ohm-25ma.jpg" alt="drawing" width="500"/>
 
 5. Resistances of 10k ohms
-![alt text](http://www.elektronique.fr/img/img_pr_news/electronique/resistances/800px-3_Resistors.jpg)
+<img src="http://www.elektronique.fr/img/img_pr_news/electronique/resistances/800px-3_Resistors.jpg" alt="drawing" width="500"/>
 
 
 **How it Works ?**
