@@ -2,7 +2,7 @@
 
 IoT Project for 5AL at ESGI
 
-**Goal**
+**Goal :**
 
 The project main Goal is to create an alert system to notify when garbage bin is full and send a notification to the personal in charge
 
@@ -10,7 +10,7 @@ This will decrease the cleaning personal work charge and will avoid having overc
 
 The project contains a web application to survey the state of bins
 
-**Components**
+**Components :**
 
 1. Arduino Card ESP8266
 <img src="https://leetechbd.com/wp-content/uploads/2018/01/WeMos-D1-Mini-V2-NodeMcu.jpg" alt="drawing" width="500"/>
@@ -50,7 +50,7 @@ If you want to deploy it with to your own cloud, you need to add the credentials
 The cleaning personal can have the list of the filled garbage bins in the web page with the name of the garbage bin.  
 
 
-**Problems encountered**
+**Problems encountered :**
 
 * **when we wanted to add a buzzer on our Wemos ESP8226 R1 D1**
 
