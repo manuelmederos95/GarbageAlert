@@ -3,7 +3,7 @@
 #define TOKEN  "BBFF-EOWLPFC2CqXVz6olPpcMMN1VTydEqU"  // Put here your Ubidots TOKEN
 #define WIFISSID "ESGI" // Put here your Wi-Fi SSID
 #define PASSWORD "Reseau-GES" // Put here your Wi-Fi password
-#define maxBlockedTime 30000
+#define maxBlockedTime 10000
 #define idPoubelle "5cb73e2c1d847228b8ab8ac3" //Ici id de poubelle
 
 const int led_green = D0;
@@ -44,10 +44,10 @@ void loop() {
     if(counter == maxBlockedTime && isSend == false) {
       digitalWrite(led_red, 1);
       Serial.println("EVENT DECLANCHER");
-      counter = 0;
       isSend = true;
       client.add(idPoubelle, 1);
       client.sendAll(false);
+      counter = 0;
     }
   }else {
     Serial.print(" Pass ");
