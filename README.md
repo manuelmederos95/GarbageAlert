@@ -33,12 +33,17 @@ The project contains a web application to survey the state of bins
 The arduino card will create a Wifi connection. Than it the signal produced by the laser is not captured during a defined time an alert will be send to the ubidot cloud and from the cloud to the web application and notifications by SMS. 
 
 You need to set up your wifi connection : 
-
-![alt text](https://github.com/manuelmederos95/GarbageAlert/blob/master/images/Annotation%202019-04-18%20164216.jpg)
+```
+#define WIFISSID "xxxx" // Put here your Wi-Fi SSID
+#define PASSWORD "xxxxxxxx" // Put here your Wi-Fi password
+```
 
 If you want to deploy it with to your own cloud, you need to add the credentials of Ubidots : 
 
-![alt text](https://github.com/manuelmederos95/GarbageAlert/blob/master/images/Annotation%202019-04-18%20164616.jpg)
+```
+#define TOKEN  "BBFF-EOWLPFC2CqXVz6olPpcMMN1VTydEqU"  // Put here your Ubidots TOKEN
+#define idPoubelle "5cb73e2c1d847228b8ab8ac3" //Garbage id
+```
 
 **Web app : **
 
