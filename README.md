@@ -48,6 +48,7 @@ If you want to deploy it with to your own cloud, you need to add the credentials
 **Web app :**
 
 The cleaning personal can have the list of the filled garbage bins in the web page with the name of the garbage bin.  
+*This module of web id not deployed yet, we have only written the source code, if you'd like to use it, you can find the codes in the folder "web".*
 
 
 
