@@ -1,6 +1,6 @@
-#Problems encountered :
+# Problems encountered :
 
-##Problems
+## Problems
 
 * **when we wanted to add a buzzer on our Wemos ESP2886**
 
