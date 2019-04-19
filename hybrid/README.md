@@ -2,10 +2,10 @@
 
 IoT Project for 5AL at ESGI
 
-Blynk part:
+Hybrid part:
 
  
-The Blynk part allow the user to be notified using the Blynk application. This system will send a notification each time that one of the garbages is full. For this method we will follow the next steps: 
+The hybrid part uses the two notification systems (web and mobile application). For this method the next steps are required:
 
 <ul>
     <li>1 - Install Blynk application</li>
@@ -15,5 +15,8 @@ The Blynk part allow the user to be notified using the Blynk application. This s
     <li>5 - Add a Led Widget in Blynk as V0</li>
     <li>6 - Add a Button Widget in Blynk as V1</li>
     <li>7 - Install the Blynk library in Arduino</li>
-    <li>8 - Upload the code to the Arduino Card</li>
+    <li>8 - Create a Ubidots project</li>
+    <li>9 - Add the Ubidots token to the arduino code</li>
+    <li>10 - Install the Ubidots library in Arduino</li>
+    <li>11 - Upload the code to the Arduino Card</li>
 </ul>
